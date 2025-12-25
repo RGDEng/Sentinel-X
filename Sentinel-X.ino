@@ -2,7 +2,7 @@
  * Project: Sentinel-X Automated Turret
  * Description: Autonomous defense system using Ultrasonic Sensor, Servo, and DC Motor.
  * Features 3 security zones (Safe, Alert, Emergency).
- * Author: [Tu Nombre Aquí]
+ * Author: RDGEng
  * Date: December 2025
  */
 
